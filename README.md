@@ -1,2 +1,13 @@
-# Image-Lister
-A small console based programm which can create image links data for databases/randomaizers/etc.
+# Navigation
+- Ru
+  - Установка
+  - Настройка и рекомендации к использованию
+- En
+  - Download
+  - Usage recomendations
+## Ru
+Программка, создающая .txt с ссылками на картинки.
+
+### Настройка и рекомендации к использованию:
+1. Устанавливаете нужную версию программы из
+2. 
